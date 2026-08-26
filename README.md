@@ -1,21 +1,88 @@
-# 💫 About Me:
-<br><br>Hi, my name is I Gede Ary Wiguna, and I am currently a student in Software Engineering (RPL).  <br>I am passionate about Front-End Development and love creating websites that are responsive, interactive, and user-friendly.<br><br>Technical Skills:<br>- HTML, CSS, JavaScript<br>- Git and GitHub<br>- Basic UI/UX Design<br><br>Projects:<br>I enjoy building small projects to improve my skills, such as personal websites, landing pages, and interactive web components. Each project helps me learn new techniques and best practices in web development.<br><br>Currently Learning:<br>- Advanced JavaScript frameworks like React<br>- Web accessibility and responsive design<br>- Version control best practices
+<div align="center">
 
+  <!-- Animated Typing SVG Header -->
+  <a href="https://github.com/arywiguna2">
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+I+Gede+Ary+Wiguna;Software+Engineering+(RPL)+Student;Passionate+Front-End+Developer+%E2%9C%A8" alt="Typing SVG" />
+  </a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guss_asrii1) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gusarii12) 
+  <p align="center">
+    <a href="https://github.com/arywiguna2">
+      <img src="https://komarev.com/ghpvc/?username=arywiguna2&label=Profile%20Views&color=0284c7&style=for-the-badge&logo=github" alt="Profile Views" />
+    </a>
+  </p>
 
-# 💻 Tech Stack:
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arywiguna2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arywiguna2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arywiguna2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <!-- Animated Top Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=header" width="100%"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arywiguna2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arywiguna2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me:
+
+Hi, my name is **I Gede Ary Wiguna**, and I am currently a student in **Software Engineering (RPL)**.  
+I am passionate about **Front-End Development** and love creating websites that are responsive, interactive, and user-friendly.
+
+### 🛠️ Technical Skills:
+- HTML, CSS, JavaScript
+- Git and GitHub
+- Basic UI/UX Design
+
+### 🚀 Projects:
+I enjoy building small projects to improve my skills, such as personal websites, landing pages, and interactive web components. Each project helps me learn new techniques and best practices in web development.
+
+### 📚 Currently Learning:
+- Advanced JavaScript frameworks like React
+- Web accessibility and responsive design
+- Version control best practices
+
+---
+
+## 🌐 Socials:
+
+<div align="left">
+  <a href="https://instagram.com/guss_asrii1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@gusarii12" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="mailto:arywigunaperipayer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+# 💻 Tech Stack:
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
+
+---
+
+# 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arywiguna2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" alt="Ary Wiguna's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arywiguna2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" height="165" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arywiguna2&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=80&section=footer" width="100%"/>
+</div>
