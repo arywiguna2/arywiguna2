@@ -18,21 +18,22 @@
 
 # 👋 About Me
 
-Hi! I'm **I Gede Ary Wiguna**, a Software Engineering (RPL) student who enjoys building websites, applications, and creative software projects.
+Hi! I'm **I Gede Ary Wiguna**, a Software Engineering (RPL) student focused on **Front-End Development** and **UI/UX Design**.
 
-I'm mainly interested in **Front-End Development**, **UI/UX Design**, and exploring how different technologies can be combined to create useful digital products.
+I enjoy building websites, applications, and digital products while experimenting with new technologies and development workflows.
 
-I enjoy learning by building real projects, experimenting with new technologies, and turning ideas into working applications.
+I learn mostly by building real projects, turning ideas into working products, and improving my skills through hands-on experience.
 
 ### 🎯 Current Focus
 
 - Front-End Development
 - Vue.js
 - Tailwind CSS
+- JavaScript
 - UI/UX Design
 - Python
 - Web Application Development
-- Exploring Game Development
+- PWA Development
 
 ---
 
@@ -68,19 +69,20 @@ I enjoy learning by building real projects, experimenting with new technologies,
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Project
 
 ## 🍫 Coklar AI
 
 **Coklar AI** is a personal AI assistant project designed to combine AI capabilities with multiple platforms.
 
-The project focuses on building an AI system that can interact with users, maintain memory, provide useful tools, and integrate with different interfaces.
+The project focuses on creating an AI system that can interact with users, provide useful tools, maintain context, and integrate with different interfaces.
 
 ### Features
 
 - AI conversational assistant
 - Discord integration
 - AI memory system
+- Natural language commands
 - Slash commands
 - Leveling system
 - Moderation features
@@ -94,66 +96,9 @@ The project focuses on building an AI system that can interact with users, maint
 
 ---
 
-## 🧟 COKLAR APOCALYPSE
-
-**COKLAR APOCALYPSE** is a 3D zombie survival game built with Python.
-
-The project was created to explore game development, AI behavior, gameplay systems, and 3D environments.
-
-### Features
-
-- 3D survival gameplay
-- Zombie AI
-- Player movement
-- Sprint and stamina system
-- Health and hunger system
-- Loot system
-- Inventory
-- Objectives
-- Safehouse system
-- Day and night cycle
-- Save / Load system
-- Game Over and Victory states
-
-### Technologies
-
-`Python` `Ursina` `Panda3D`
-
----
-
-# 💼 Experience
-
-## 🏢 PT Cakra Media Data
-
-**Internship / PKL — UI/UX & Front-End Development**
-
-During my internship, I worked on UI/UX and front-end development projects while learning how software development is handled in a professional environment.
-
-### Activities
-
-- Designing website interfaces
-- Converting designs into web interfaces
-- Working with Vue.js
-- Building responsive layouts
-- Creating landing pages
-- Learning component-based development
-- Collaborating on software projects
-
-### Project
-
-**Cakra Loyalty Landing Page**
-
-A landing page concept for Cakra Loyalty, focusing on loyalty, promotions, content management, and integration with hotel systems.
-
-**Technologies:**
-
-`Vue.js` `Tailwind CSS` `Figma`
-
----
-
 # 🎨 UI/UX
 
-I also enjoy designing interfaces before turning them into functional websites.
+I enjoy designing interfaces before turning them into functional websites.
 
 ### Design Tools
 
@@ -164,11 +109,11 @@ I also enjoy designing interfaces before turning them into functional websites.
 - Component Design
 - User Flow
 
-My approach is to keep interfaces:
+My design approach focuses on interfaces that are:
 
 - Clean
 - Responsive
-- Easy to understand
+- Simple
 - Consistent
 - User-friendly
 
@@ -176,7 +121,7 @@ My approach is to keep interfaces:
 
 # 📚 Currently Learning
 
-I'm continuously improving my development skills through personal projects and experimentation.
+I'm continuously improving my development skills through personal projects, experimentation, and hands-on learning.
 
 ### Learning
 
@@ -188,14 +133,14 @@ I'm continuously improving my development skills through personal projects and e
 - UI/UX Design
 - REST API
 - Database Integration
-- Game Development
+- PWA Development
 - Software Architecture
 
 ---
 
 # 🧩 What I'm Building
 
-Currently experimenting with several types of projects:
+Currently experimenting with different types of projects:
 
 ```text
 Web Development
@@ -210,8 +155,8 @@ AI Development
 ├── AI Memory
 └── Multi-platform Architecture
 
-Game Development
-├── COKLAR APOCALYPSE
-├── 3D Environment
-├── Zombie AI
-└── Survival Systems
+UI/UX Design
+├── Web Interfaces
+├── Design Systems
+├── User Flows
+└── Responsive Layouts
